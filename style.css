@@ -217,7 +217,7 @@ margin-top: 40px;
 
 #don input[type=button]:hover {
   background-color: #aaa;
-  color: #000;
+  color: #fff;
   cursor: pointer;
   transform: scale(1.01);
 }
