@@ -210,6 +210,7 @@ margin-top: 40px;
   background-color: #222;
   border-radius: 7px;
   outline: none;
+  color: #fff !important;
   border: none;
   transition: .2s ease-in-out;
 }
@@ -217,7 +218,7 @@ margin-top: 40px;
 
 #don input[type=button]:hover {
   background-color: #aaa;
-  color: #fff;
+  color: #000;
   cursor: pointer;
   transform: scale(1.01);
 }
